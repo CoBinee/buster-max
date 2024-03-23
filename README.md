@@ -1,6 +1,6 @@
 # BUSTER - mayQ -
 
-[![Witches](http://img.youtube.com/vi/0R2x5Th4dKs/0.jpg)](https://www.youtube.com/watch?v=0R2x5Th4dKs)
+[![BUSTER](http://img.youtube.com/vi/0R2x5Th4dKs/0.jpg)](https://www.youtube.com/watch?v=0R2x5Th4dKs)
 
 ## 説明
 迷宮から帰還してください。<br>
